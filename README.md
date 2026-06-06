@@ -3,10 +3,9 @@ Gothic Remake Lockpicking Mod — gothic remake lockpicking mod gothic 1 remake 
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cd284cdc-458e-4648-b745-3af2495fd6d3" />
 
-
-[![GitHub Stars](https://img.shields.io/github/stars/actjelle/gothic-remake-lockpicking-mod?style=flat-square&color=00d4aa)](https://github.com/actjelle/gothic-remake-lockpicking-mod/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/actjelle/gothic-remake-lockpicking-mod?style=flat-square&color=0099cc)](https://github.com/actjelle/gothic-remake-lockpicking-mod/network)
-[![Downloads](https://img.shields.io/github/downloads/actjelle/gothic-remake-lockpicking-mod/total?style=flat-square&color=7c5cbf)](https://github.com/actjelle/gothic-remake-lockpicking-mod/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/gothic-remake-lockbreaker/gothic-remake-lockpicking-tool?style=flat-square&color=00d4aa)](https://github.com/gothic-remake-lockbreaker/gothic-remake-lockpicking-tool/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/gothic-remake-lockbreaker/gothic-remake-lockpicking-tool?style=flat-square&color=0099cc)](https://github.com/gothic-remake-lockbreaker/gothic-remake-lockpicking-tool/network)
+[![Downloads](https://img.shields.io/github/downloads/gothic-remake-lockbreaker/gothic-remake-lockpicking-tool/total?style=flat-square&color=7c5cbf)](https://github.com/gothic-remake-lockbreaker/gothic-remake-lockpicking-tool/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 ## Overview

